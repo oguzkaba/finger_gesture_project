@@ -1,0 +1,6 @@
+package com.example.finger_gesture_project
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
